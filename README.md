@@ -21,9 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Harshita-Nimje&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Harshita-Nimje&icon=5&color=10)](https://visitcount.itsvg.in)
 
