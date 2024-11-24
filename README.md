@@ -1,5 +1,5 @@
 # ☘️ About Me:
-🔭I'm currently working on React, DSA, and Figma.<br>🌱I'm currently learning React and Tailwind CSS.<br>💬Ask me about HTML, CSS, Javascript,Node.js, and Express JS<br>🕊️How to reach me harshunimje22@gmail.com <br>👻Fun Fact I'm the maestro of code chaos<br><br><br>
+🔭I'm currently working on Socket.io, DSA and SQL.<br>🌱I'm currently learning Socket.io and DBMS.<br>💬Ask me about HTML, CSS, Javascript,Node.js, and Express JS<br>🕊️How to reach me harshita.nimje2203@gmail.com <br>👻Fun Fact I'm the maestro of code chaos<br><br><br>
 
 
 ## 🌐 Socials:
